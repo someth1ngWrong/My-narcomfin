@@ -6,7 +6,7 @@
 body {
   font-family: 'PT Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
-  background-image: url(../img/dc-online-media-mockup.jpg);
+  /* background-image: url(../img/dc-online-media-mockup.jpg); */
   background-size: 800px 20624px;
   background-position: top center;
   background-repeat: no-repeat;
@@ -45,7 +45,7 @@ blockquote::before {
   content: '';
   background-color: #000;
 } */
-    
+
 h1{
   font-size: 46px;
   font-weight: bold;
